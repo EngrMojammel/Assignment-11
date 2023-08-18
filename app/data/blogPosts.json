@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "title": "Dhaka",
+      "content": "Dhaka is the capital city of Bangladesh, in southern Asia. Set beside the Buriganga River, it’s at the center of national government, trade and culture. The 17th-century old city was the Mughal capital of Bengal, and many palaces and mosques remain. American architect Louis Khan’s National Parliament House complex typifies the huge, fast-growing modern metropolis.",
+      "date": "2023-08-15"
+    },
+    {
+      "id": 2,
+      "title": "Chittagong",
+      "content": "Chittagong is large port city on the southeastern coast of Bangladesh. The Ethnological Museum has exhibits about the many different ethnic tribes across the country. Zia Memorial Museum, inside the former Old Circuit House, displays items belonging to former president Ziaur Rahman, who was assassinated on the site in 1981.",
+      "date": "2023-08-16"
+    },
+    {
+      "id": 3,
+      "title": "Khulna",
+      "content": "Khulna is the third-largest city in Bangladesh, after Dhaka and Chittagong. It is the administrative centre of Khulna District and Khulna Division. Khulna's economy is the third-largest in Bangladesh, contributing $53 billion in gross state product and $95 billion in purchasing power parity in 2020.",
+      "date": "2023-08-17"
+    },
+    {
+      "id": 4,
+      "title": "Rajshahi",
+      "content": "Rajshahi is a metropolitan city and a major urban, commercial and educational centre of Bangladesh. It is also the administrative seat of the eponymous division and district.",
+      "date": "2023-08-17"
+    }
+  ]
